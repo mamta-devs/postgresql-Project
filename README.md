@@ -23,7 +23,7 @@ This repository contains my PostgreSQL practice work, including SQL queries, dat
 
 ## Files Included
 
-
+- SQL PROJECT FILE.sql
 
 ## Tools Used
 
